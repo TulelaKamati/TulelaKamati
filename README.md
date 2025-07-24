@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @TulelaKamati
-- 👀 I’m interested in Data Analytics
-- 🌱 I’m currently studying Informatics (Faculty of Computing)
-- 😄 Pronouns: She/Her
+- 👀 Aspiring Data Analyst
+
+
 
 
 <!---
